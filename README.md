@@ -85,20 +85,3 @@ The dataset used is `marketing_campaign.csv`, which contains:
 * Scikit-learn
 * Yellowbrick
 * PCA & Clustering Algorithms
-
----
-
-## 📈 Results
-
-The model successfully segments customers into distinct groups based on:
-
-* Spending behavior
-* Income level
-* Engagement with marketing campaigns
-
-These insights can be used to:
-
-* Improve targeting strategies
-* Personalize marketing campaigns
-* Increase customer retention
-
